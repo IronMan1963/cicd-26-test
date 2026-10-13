@@ -1,4 +1,4 @@
-public class kinderino {
+public class Kinderino {
   public static void main(String[] args) {
     System.out.println("Hello, World! (feat.Kinderino)");
   }
